@@ -1,0 +1,6 @@
+---
+composer:
+  vendor_directory: "vendor"
+
+php:
+  webdirectory: "public"
